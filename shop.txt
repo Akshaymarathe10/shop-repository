@@ -6,3 +6,5 @@ Application uses provider to handle state in application.
 
 
 Thank you :)
+
+Final copy
