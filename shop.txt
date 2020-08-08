@@ -1,0 +1,4 @@
+
+
+This is Akshay project of shop application.
+Application based on state management. 
