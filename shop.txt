@@ -1,4 +1,5 @@
 
 
 This is Akshay project of shop application.
-Application based on state management. 
+Application based on state management.
+Application uses provider to handle state in application.
