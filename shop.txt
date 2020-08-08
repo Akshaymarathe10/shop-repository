@@ -4,7 +4,13 @@ This is Akshay project of shop application.
 Application based on state management.
 Application uses provider to handle state in application.
 
+Edit product and delete product feature will in next update. 
+
 
 Thank you :)
 
+
+Done my changes 
+
 Final copy
+
